@@ -3,7 +3,7 @@
 I'm a Computer Science student who really enjoys solving problems and create software solutions :computer: (mainly in **Python** :snake:)  
 <br>
 
-![Gs-G2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gs-G2&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&card_width=494px)
+![Gs-G2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gs-G2&show_icons=true&theme=vue-dark&hide_border=true&card_width=494px)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gs-G2&theme=vue-dark&hide_border=true&border_radius=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gs-G2&layout=compact&show_icons=true&theme=vue-dark&hide_border=true&card_width=494px)
 
